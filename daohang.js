@@ -2,7 +2,7 @@ document.writeln("<div style=\'width: 100%;\' ><a style=\'margin:0; padding:0;wi
 //文字区
 document.writeln("<div class=\'latest-primary\'>");
 document.writeln("	<ul class=\'latest-tabs clearfix\'>");
-//05-01//////
+//05-01-888
 document.writeln("<li style=\'background-color:#fff;\'><a href=\'https://fq5006.com/?uid=AA000035\' target=\'_blank\'><b>→性奴←</b></a></li>");
 document.writeln("<li style=\'background-color:#fff;\'><a href=\'https://fq5006.com/?uid=AA000035\' target=\'_blank\'><b>→强奸←</b></a></li>");
 document.writeln("<li style=\'background-color:#fff;\'><a href=\'https://fq5006.com/?uid=AA000035\' target=\'_blank\'><b>→幼女←</b></a></li>");
